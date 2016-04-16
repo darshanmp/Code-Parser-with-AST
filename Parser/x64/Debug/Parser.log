@@ -1,0 +1,5 @@
+﻿  Parser.cpp
+  ConfigureParser.cpp
+  Generating Code...
+f:\courses\687\project2\project2\rulesandactions\rulesandaction.h(693): warning C4715: 'Declaration::doTest1': not all control paths return a value
+  Parser.vcxproj -> F:\Courses\687\Project2\Project2\x64\Debug\Parser.lib
