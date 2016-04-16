@@ -1,0 +1,6 @@
+﻿  SemiExp.cpp
+f:\courses\687\project2\project2\semiexp\semiexp.cpp(84): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Utilities.cpp
+  Tokenizer.cpp
+  Generating Code...
+  SemiExp.vcxproj -> F:\Courses\687\Project2\Project2\x64\Debug\SemiExp.lib
