@@ -1,0 +1,7 @@
+﻿  FileSystem.cpp
+  FileMgr.cpp
+  DataStore.cpp
+  Generating Code...
+FileMgr.obj : warning LNK4221: This object file does not define any previously undefined public symbols, so it will not be used by any link operation that consumes this library
+DataStore.obj : warning LNK4221: This object file does not define any previously undefined public symbols, so it will not be used by any link operation that consumes this library
+  FileManager.vcxproj -> F:\Courses\687\Project2\Project2\x64\Debug\FileManager.lib
